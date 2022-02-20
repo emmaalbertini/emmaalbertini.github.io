@@ -7,7 +7,10 @@
 <p>
 ACADEMIA
 I am a theoretical physics PhD student in Imperial College London, interested in quantum gravity. See my CV here
-My current work focuses on quantum cosmology  <a href="https://drive.google.com/file/d/1J5UK7uXG0vLbZwureOpVulwqLkFTr8Ng/view?usp=sharing">This is a link</a> 
+My current work focuses on quantum cosmology: the idea of describing the whole Universe as a quantum mechanical object,
+i.e. a wave function, rather than as classical spacetime. I am investigating the implication of second class constraint to the solution
+of the WDW, challenging the equivalence between metric and connection rep-
+resentation of GR at the quantum level. In particular, I am atudying the impact of torsion on the probability of inflation for the Vilenkin proposal of the wavefunction of the universe. This is a general <a href="https://drive.google.com/file/d/1J5UK7uXG0vLbZwureOpVulwqLkFTr8Ng/view?usp=sharing"> route</a> for my PhD, although I guess that the fun part is to explore topics off-tracks without 
 </p>
 <p>
 WHY DON'T WE TRY TO DISCRETIZE SPACETIME?
