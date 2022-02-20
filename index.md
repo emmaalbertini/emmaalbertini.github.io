@@ -5,7 +5,7 @@
 <h1>Hello MetaUniverse, Look inside my window!</h1>
 <p>How good is to coexist, my dear fellow? I am a partially localized soul housed by a body called Emma for the past 23 years.</p>
 <p>
-The noun ‘dividation’ means an unrestricted and generalized totality of acts of seeing
+<i>The noun ‘dividation’ means an unrestricted and generalized totality of acts of seeing
 things as separate. As has been indicated earlier, di-vidation implies a division in the
 attention-calling function of the word, in the sense that di-vidation is seen to be different
 from vidation. [...] Rather, their very forms indicate that dividation is a kind of vidation,
@@ -22,7 +22,7 @@ in terms of more subtle divisions and categories of thought, which are significa
 subtle forms of movement. [...] Beyond all these orders is that of the movement of attention.
 This movement has to have an order that fits the order in that which is to be observed, or
 else we will miss seeing what is to be seen.
-- David Bohm, Wholeness and the implicate order.
+- David Bohm, Wholeness and the implicate order.</i>
 </p>
 <p>
 ACADEMIA
@@ -34,7 +34,7 @@ of the Wheeler DeWitt equation, challenging the equivalence between metric and c
 </p>
 <p>
 WHY DON'T WE TRY TO DISCRETIZE SPACETIME?
-But you have correctly grasped the drawback that the continuum brings. If the molec-
+<i>But you have correctly grasped the drawback that the continuum brings. If the molec-
 ular view of matter is the correct (appropriate) one, i.e., if a part of the universe is to be
 represented by a finite number of moving points, then the continuum of the present theory
 contains too great a manifold of possibilities. I also believe that this too great is responsible
@@ -43,7 +43,7 @@ problem seems to me how one can formulate statements about a discontinuum withou
 calling upon a continuum (space-time) as an aid; the latter should be banned from the
 theory as a supplementary construction not justified by the essence of the problem, which
 corresponds to nothing “real”. But we still lack the mathematical structure unfortunately.
-How much have I already plagued myself in this way! - Albert Einstein. Letter to walter dallenbach.
+How much have I already plagued myself in this way! - Albert Einstein. Letter to walter dallenbach.</i>
 
 I studied Causal Set Theory, developing the interacting quantum field formalism.
 You can read my MSc thesis <a href="https://drive.google.com/file/d/1v4pHm6kg-nnuuuIXae9ZjrYKUGUB2E4p/view?usp=sharing">here</a>!
