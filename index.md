@@ -1,10 +1,5 @@
 <html>
 <head>
-<style>
-body {
-  font-family: 'Courier New', monospace;
-}
-</style>
 </head>
 <body>
 <h1>Hello World</h1>
@@ -16,6 +11,6 @@ I am a theoretical physicist PhD student in Imperial College London, interested 
 <p>
 I am a theoretical physicist PhD student in Imperial College London, interested in quantum gravity. oh Gosh what if 
 </p>
-<a href="https://www.w3schools.com">This is a link</a>
+
 </body>
 </html>
